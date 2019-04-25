@@ -19,7 +19,7 @@ export BETTER_EXCEPTIONS=1  # Linux / OSX
 setx BETTER_EXCEPTIONS 1    # Windows
 ```
 
-That's it!
+That's it! Now every exception that is raised in Python will automatically be formatted as a better exception.
 
 ### Python REPL (Interactive Shell)
 
